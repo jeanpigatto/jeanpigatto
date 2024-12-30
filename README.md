@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jeanpigatto
-- 💻 I'm a Software Developer and SQL Database Developer, I have hands-on experience with databases.
-- 🌱 I’m currently learning Software Engineering and Data Engineering. 
+- 💻 I'm a Software Engineering.
+- 🌱 I’m currently Full-Stack Developer working with Java/TypeScript/Angular. 
 - 📫 If you need to reach me, mail me at jeanpigatto@gmail.com.
